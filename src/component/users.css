@@ -1,0 +1,6 @@
+.wrapper {
+  border-bottom: 1px solid gray;
+  width: 300px;
+  margin: auto;
+  box-shadow: 3px 3px 5px gray;
+}
